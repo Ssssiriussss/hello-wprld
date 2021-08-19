@@ -1,1 +1,3 @@
-# hello-wprld
+# hello-world
+
+Hi Humans!
